@@ -14,3 +14,11 @@ int main(){
     }
     return 0;
 }
+/*
+If i print (cout<<i/val) than the pattern will be like
+1
+22
+333
+4444
+n.....n
+*/
