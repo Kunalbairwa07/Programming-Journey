@@ -18,3 +18,14 @@ int main(){
     }
     return 0;
 }
+/*
+
+The Pattern Looks Like.
+*******
+*     *
+*     *
+*     *
+*     *
+*******
+
+*/
