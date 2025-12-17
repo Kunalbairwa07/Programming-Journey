@@ -15,3 +15,11 @@ int main(){
     }
     return 0;
 }
+/*
+The Pattern Is look Like.
+A
+BC
+DEF
+GHIJ
+KLMNO
+*/
