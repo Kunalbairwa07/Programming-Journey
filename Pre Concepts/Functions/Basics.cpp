@@ -11,10 +11,14 @@ fName(); // Function Call
 using namespace std;
 
 void SayHello(){
-    cout<<"Hello User.";
+    cout<<"Hello User."<<endl;
 }
 
-int main(){
+void Assistant(){
     SayHello();
+    cout<<"Work Is Done..";
+}
+int main(){
+    Assistant();
     return 0;
 }
