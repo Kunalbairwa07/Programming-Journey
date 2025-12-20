@@ -1,3 +1,4 @@
+//Even odd by using Function.
 #include <iostream>
 using namespace std;
 
