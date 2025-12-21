@@ -11,5 +11,5 @@ int main(){
     return 0;
 }
 /*
-This code is for getting produc of 2 numbers by function.
+This code is for getting product of 2 numbers by function.
 */
