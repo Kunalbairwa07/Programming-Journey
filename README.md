@@ -1,40 +1,72 @@
-# 🚀 C++ Fundamentals – The Beginning of My DSA Journey
+# 🌟 Programming Journey – My C++ Foundation & DSA Roadmap
 
-Welcome! 👋 This repository marks the **starting point of my journey into Data Structures and Algorithms (DSA)** using **C++** — one of the most powerful languages for mastering problem-solving and system-level programming.
-
----
-
-## 📚 What This Repository Is About
-
-This is not just a collection of basic C++ programs —  
-it’s a **well-structured foundation** that I’m building as the **first step toward mastering DSA**.
-
-Every concept here is a building block — from understanding how loops work to structuring logical conditions — all essential for cracking real-world coding problems and competitive programming.
+Welcome to my **Programming Journey Repository!**  
+This repo contains my complete learning path — from **C++ fundamentals** to **full DSA mastery**.  
+Every update reflects my **consistency**, **dedication**, and passion for becoming better in problem-solving.
 
 ---
 
-## 🧠 Topics Covered (So Far):
+## 📌 What This Repository Represents
 
-- 📥 Input / Output Handling
-- 🔢 Variables & Data Types
-- 📈 Arithmetic & Logical Operators
-- 🔀 Conditional Statements (`if`, `else if`, `switch`)
-- 🔁 Looping Constructs (`for`, `while`, `do-while`)
-- ➗ Basic Calculations (Sum, Factorial, Calculator App)
-- 📆 Leap Year Checker
-- 🧮 Pattern Printing (coming soon)
-- 🧩 Problem-Solving Mindset (built-in comments & logic)
+This is more than practice code — it’s my **daily learning journal**, where I explore:
 
-This repo will **evolve** as I grow through:
-- Advanced C++ concepts
-- DSA techniques (arrays, strings, recursion, etc.)
-- Competitive-level problem-solving
+- C++ basics & core programming concepts  
+- Step-by-step DSA preparation  
+- Logical & problem-solving skills  
+- Regular hands-on coding practice  
+
+If you're also starting programming, this repo can act as a **reference + roadmap**.
 
 ---
 
-## ⚙️ How to Run
+## 📚 Topics Covered (Updated Regularly)
+
+### 🔰 C++ Foundation
+- Input / Output  
+- Variables & Data Types  
+- Operators (Arithmetic, Logical, Relational)  
+- Conditional Statements (`if`, `else if`, `switch`)  
+- Looping Constructs (`for`, `while`, `do-while`)  
+- Functions (coming soon)  
+- Arrays & Strings (upcoming)  
+
+### 🧠 Logical & Problem-Solving Programs
+- Basic Calculations (Sum, Factorial, Average, etc.)  
+- Pattern Printing  
+- Number Properties  
+- Mini Challenges & Practice Problems  
+
+### 🚀 DSA in C++ (Step-by-Step Roadmap)
+- Arrays  
+- Strings  
+- Recursion  
+- Searching & Sorting  
+- STL  
+- Linked List  
+- Stack & Queue  
+- Trees  
+- Graphs  
+*(Will be updated as I progress)*
+
+---
+
+## 📅 Daily Progress & Consistency
+
+This repository is updated **daily**.  
+Each update includes:
+
+✔ A new topic  
+✔ A new concept  
+✔ A new problem solved  
+✔ Or an improvement in previous code  
+
+This helps track long-term growth and builds strong coding discipline.
+
+---
+
+## 🛠️ How to Use This Repository
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cpp-foundation-dsa.git
-   cd cpp-foundation-dsa
+   git clone https://github.com/your-username/Programming-Journey.git
+   cd Programming-Journey
