@@ -68,5 +68,5 @@ This helps track long-term growth and builds strong coding discipline.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Programming-Journey.git
+   git clone https://github.com/Kunalbairwa07/Programming-Journey.git
    cd Programming-Journey
