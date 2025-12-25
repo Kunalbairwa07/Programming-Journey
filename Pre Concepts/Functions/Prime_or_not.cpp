@@ -1,3 +1,4 @@
+// This program is to checker wheather a number is prime or not using Functions.
 #include <iostream>
 using namespace std;
 
@@ -26,3 +27,14 @@ int main() {
 
     return 0;
 }
+/*
+if (n <= 1)
+        return false;
+
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0)
+            return false;
+    }
+
+    Main Logic of the program.
+*/
