@@ -1,4 +1,4 @@
-//Even odd by using Function.
+//This Program is to check number is Even or Odd.
 #include <iostream>
 using namespace std;
 
