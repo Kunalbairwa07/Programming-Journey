@@ -16,16 +16,22 @@ using namespace std;
 //     cout << param << endl;
 // }
 
-int changesA(int *ptr)
+// int changesA(int *ptr)
+// {
+//     *ptr = 20;
+//     cout << *ptr << endl; // pass by pointer (address)
+// }
+
+void changesA(int &ref)
 {
-    *ptr = 20;
-    cout << *ptr << endl; // pass by reference (address)
+    ref = 20; // pass by reference variable.
+    cout << ref << endl;
 }
 int main()
 {
     int a = 10;
     int *ptr = &a;
-    changesA(ptr);
+    changesA(a);
     cout << a << endl;
     return 0;
 }
