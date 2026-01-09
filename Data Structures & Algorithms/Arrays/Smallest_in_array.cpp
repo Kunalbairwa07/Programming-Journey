@@ -1,3 +1,4 @@
+//To find out smallest value in Array.
 #include <iostream>
 using namespace std;
 int main()
