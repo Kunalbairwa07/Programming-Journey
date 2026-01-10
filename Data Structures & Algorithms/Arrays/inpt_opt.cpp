@@ -1,3 +1,4 @@
+// To take Input and give output in Array.
 #include <iostream>
 using namespace std;
 int main()
