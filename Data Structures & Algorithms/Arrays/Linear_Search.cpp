@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
+
+void joker(){
+    cout<<"Hey joker"<<endl;
+}
+
 int main()
 {
-    cout<<"Hey Joker!";
+    joker ();
     return 0;
 }
