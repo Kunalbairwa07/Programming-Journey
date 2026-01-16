@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
 
-void joker(){
-    cout<<"Hey joker"<<endl;
+void joker()
+{
+    cout << "Hey joker" << endl;
 }
 
 int main()
 {
-    joker ();
+    joker();
     return 0;
 }
