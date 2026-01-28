@@ -27,8 +27,8 @@ If you're also starting programming, this repo can act as a **reference + roadma
 - Operators (Arithmetic, Logical, Relational)  
 - Conditional Statements (`if`, `else if`, `switch`)  
 - Looping Constructs (`for`, `while`, `do-while`)  
-- Functions (coming soon)  
-- Arrays & Strings (upcoming)  
+- Functions   
+- Arrays & Strings  
 
 ### 🧠 Logical & Problem-Solving Programs
 - Basic Calculations (Sum, Factorial, Average, etc.)  
