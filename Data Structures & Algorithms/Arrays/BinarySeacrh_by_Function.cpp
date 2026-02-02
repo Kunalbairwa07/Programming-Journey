@@ -23,6 +23,7 @@ int BinarySearch(int arr[], int n, int key)
     cout << "Key is not found ";
     return 0;
 }
+//The main Function.
 int main()
 {
     int arr[] = {2, 3, 4, 5, 6, 7, 8};
