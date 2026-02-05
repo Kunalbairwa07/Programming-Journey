@@ -1,10 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
+int main()
+{
     int a = 21;
     int *ptr = &a;
-    cout<<ptr<<endl;
-    *ptr --;
-    cout<<ptr;
+    cout << ptr << endl;
+    *ptr--;
+    cout << ptr;
     return 0;
 }
+// i will change this
