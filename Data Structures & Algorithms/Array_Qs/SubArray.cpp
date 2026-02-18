@@ -21,8 +21,6 @@ int main(){
 
 
 
-
-
 /*
 Firstly start use this approach.
 #include<iostream>
