@@ -7,5 +7,6 @@ int main()
     cout<<"Halat or bigad gye"<<endl;
     cout<<"Ab jake chije smbhali h"<<endl;
     cout<<"kl se sb bdl dunga";
+    cout<<"Sunanda Sharma"
     return 0;
 }
