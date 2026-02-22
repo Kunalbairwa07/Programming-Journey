@@ -8,6 +8,7 @@ int main()
     cout<<"Ab jake chije smbhali h"<<endl;
     cout<<"kl se sb bdl dunga"<<endl;
     cout<<"Sunanda Sharma"<<endl;
-    cout<<"When i Start";
+    cout<<"When i Start"<<endl;
+    cout<<"From Tommorow";
     return 0;
 }
