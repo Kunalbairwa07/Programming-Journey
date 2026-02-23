@@ -9,6 +9,7 @@ int main()
     cout<<"kl se sb bdl dunga"<<endl;
     cout<<"Sunanda Sharma"<<endl;
     cout<<"When i Start"<<endl;
-    cout<<"From Tommorow";
+    cout<<"From Tommorow"<<endl;
+    cout<<"Ab to ren k BAAD hi hoga";
     return 0;
 }
