@@ -10,6 +10,7 @@ int main()
     cout<<"Sunanda Sharma"<<endl;
     cout<<"When i Start"<<endl;
     cout<<"From Tommorow"<<endl;
-    cout<<"Ab to ren k BAAD hi hoga";
+    cout<<"Ab to ren k BAAD hi hoga"<<endl;
+    cout<<"Ren Day 2"<<endl;
     return 0;
 }
