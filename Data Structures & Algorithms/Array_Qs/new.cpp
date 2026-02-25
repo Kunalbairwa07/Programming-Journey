@@ -12,5 +12,6 @@ int main()
     cout<<"From Tommorow"<<endl;
     cout<<"Ab to ren k BAAD hi hoga"<<endl;
     cout<<"Ren Day 2"<<endl;
+    cout<<"Best Day in college Life";
     return 0;
 }
