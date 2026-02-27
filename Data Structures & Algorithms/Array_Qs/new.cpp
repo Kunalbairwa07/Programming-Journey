@@ -2,17 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "most worst day of my life."<<endl;
-    cout << "didnt call."<<endl;
-    cout<<"Halat or bigad gye"<<endl;
-    cout<<"Ab jake chije smbhali h"<<endl;
-    cout<<"kl se sb bdl dunga"<<endl;
-    cout<<"Sunanda Sharma"<<endl;
-    cout<<"When i Start"<<endl;
-    cout<<"From Tommorow"<<endl;
-    cout<<"Ab to ren k BAAD hi hoga"<<endl;
-    cout<<"Ren Day 2"<<endl;
-    cout<<"Best Day in college Life";
-    cout<<"Kl se Shuru Krenege";
+    cout<<"Delloite";
     return 0;
 }
