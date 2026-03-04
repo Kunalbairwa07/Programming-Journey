@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"fever";
+    cout<<"I know i Can do";
     return 0;
 }
