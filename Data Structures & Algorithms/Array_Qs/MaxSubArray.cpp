@@ -2,12 +2,14 @@
 using namespace std;
 
 void MaxSubArray(int *arr, int n){
-    int sum=0;
-    for(int i=0; i<n; i++){
-        for(int j=0; j<=i; j++){
-            cout<<arr[j]<<" ";
+    for(int start=0; start<n; start++){
+        for(int i=0; i<n; i++){
+            for(int j=0; j<=i; j++){
+
         }
     }
+    }
+    
 }
 
 int main(){
