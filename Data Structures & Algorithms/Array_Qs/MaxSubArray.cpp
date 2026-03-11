@@ -1,18 +1,18 @@
 #include <iostream>
 using namespace std;
 
-void MaxSubArray(int *arr, int n)
-{
-    for (int start = 0; start < n; start++)
-    {
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j <= i; j++)
-            {
-            }
-        }
+void MaxSubArray(int *arr, int n){
+    for(int out=0; out<n; out++){
+        for(int i=out; i<n; i++){
+        cout<<"(";
+        for(int j=out; j<=i; j++){
+            cout<<arr[j]<<" ";
+        }cout<<") ";
+    }cout<<endl;
     }
+    
 }
+
 
 int main()
 {
