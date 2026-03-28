@@ -23,6 +23,7 @@ int main()
     int arr[] = {2, -3, 6, -5, 4, 2};
     int n = sizeof(arr) / sizeof(int);
     MaxSubArray(arr, n);
-    cout<<"New Day";
+    cout<<"New Day"<<endl;
+    cout<<"New Day Never Comes";
     return 0;
 }
