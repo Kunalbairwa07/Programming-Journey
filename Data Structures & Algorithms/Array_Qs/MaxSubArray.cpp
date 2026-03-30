@@ -21,7 +21,6 @@ void MaxSubArray(int *arr, int n)
 int main()
 {
     int arr[] = {2, -3, 6, -5, 4, 2};
-    int n = sizeof(arr) / sizeof(int);
     MaxSubArray(arr, n);
     return 0;
 }
