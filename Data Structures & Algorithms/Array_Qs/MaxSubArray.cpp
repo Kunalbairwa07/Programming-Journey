@@ -24,5 +24,6 @@ int main()
     int n = sizeof(arr) / sizeof(int);
     MaxSubArray(arr, n);
     cout<<"AMCAT";
+    cout<<"Birthday";
     return 0;
     
